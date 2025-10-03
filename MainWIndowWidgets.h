@@ -1,0 +1,25 @@
+#ifndef MAINWINDOWWIDGETS_H
+#endif // MAINWINDOWWIDGETS_H
+#define MAINWINDOWWIDGETS_H
+#include <QMainWindow>
+#include <QPushButton>
+#include <QLineEdit>
+#include <QTableWidget>
+#include <QHBoxLayout>
+#include <QVBoxLayout>
+#include <QWidget>
+#include <QTableWidgetItem>
+#include <QResizeEvent>
+#include <QFileInfo>
+#include <QApplication>
+#include <QProcess>
+#include <QDir>
+#include <QClipboard>
+#include <QSqlDatabase>
+#include <QSqlQuery>
+#include <QSqlError>
+#include <iostream>
+#include <QDirIterator>
+#include <QSqlDatabase>
+#include <QSqlQuery>
+#include <QSqlError>
