@@ -1,0 +1,17 @@
+# Qt build folders
+build-*/
+*.o
+*.obj
+*.exe
+*.dll
+*.so
+*.log
+
+# Qt Creator project files (user-specific)
+*.pro.user
+*.qmake.stash
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
